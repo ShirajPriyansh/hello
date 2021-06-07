@@ -6,10 +6,6 @@ Learning git
 
 
 
-
-
-
-
 This feature file is
 to make some
 more changes
